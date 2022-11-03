@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/V-Tube/static/css/main.6e723bbd.css",
+    "main.js": "/V-Tube/static/js/main.613bc077.js",
+    "index.html": "/V-Tube/index.html",
+    "main.6e723bbd.css.map": "/V-Tube/static/css/main.6e723bbd.css.map",
+    "main.613bc077.js.map": "/V-Tube/static/js/main.613bc077.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e723bbd.css",
+    "static/js/main.613bc077.js"
+  ]
+}
